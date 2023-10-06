@@ -1,4 +1,5 @@
-# sect - mobile game Unity
+# sect - mobile game
+Unity - game engine
 
 <img width="393" alt="Screenshot 2023-10-05 at 6 03 12 PM" src="https://github.com/arpanraj/sect/assets/38219415/ebe5854f-0e4f-46df-800b-c97ef5cef3b4">
 
